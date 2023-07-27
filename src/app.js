@@ -12,7 +12,7 @@ function myEventHandler(event){
 			// scale:2,
 			rotate: '1turn',
 			// backgroundColor: '#FFF',
-			duration: 2000,
+			duration: 3000,
 			// complete:function(anime){
 			// 	rotate+ = '1turn'
 			// },
@@ -27,7 +27,7 @@ function myEventHandler(event){
 			// scale:2,
 			rotate: '1turn',
 			// backgroundColor: '#FFF',
-			duration: 30000,
+			duration: 3000,
 		})
 		count++;
 		iti -=500;
